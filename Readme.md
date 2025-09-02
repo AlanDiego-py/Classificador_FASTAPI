@@ -61,7 +61,10 @@ pytest
 - joblib
 - numpy
 - pytest
+## Projeto
+![imagem1](https://github.com/AlanDiego-py/Classificador_FASTAPI/blob/master/pag1.png)
 
+![imagem2](https://github.com/AlanDiego-py/Classificador_FASTAPI/blob/master/pag2.png)
 ## Personalização
 
 - O modelo pode ser ajustado em `src/iris.py`.
